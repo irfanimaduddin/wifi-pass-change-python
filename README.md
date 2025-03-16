@@ -90,9 +90,8 @@ New Password: newpassword123
 - No error handling for invalid credentials
 - Fixed wait times may need adjustment
 
-## License
-
-[Your chosen license]
+## You may see
+- [Wifi Pass Change with JavaScript](https://github.com/irfanimaduddin/wifi-pass-change-js)
 
 ## Author
 
